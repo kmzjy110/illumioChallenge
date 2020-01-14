@@ -1,0 +1,10 @@
+I tested my solution through the tests written in tests.py which includes sanity tests and performance tests.
+I tested common and edge cases in sanity tests and mainly tried to test for performance in the performance tests.
+I would like to try out different solutions if I had more time (for example, hashing each rule into a hashset and
+checking packets against a hashset which would take more memory (especially when there's a range involved) but would be faster
+than simply checking each packet against every individual rule.
+
+My ranking of the teams are:
+top choice: platform
+second choice: data
+third choice: policy
